@@ -3,7 +3,7 @@
 /* Adjust background color of the mobile menu */
 @media (max-width: 767px) {
     .navbar-collapse {
-        background-color: #f8f8f8; /* Set your desired background color */
+        background-color: #f8f8f8; /* Set background color */
     }
 }
 

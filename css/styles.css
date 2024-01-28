@@ -12,3 +12,9 @@
     margin-top: 20px; /* Adjust the margin as needed */
 }
 
+/* Style the tall section */
+.tall-section {
+    height: 1000px; /* Set the desired height */
+    background-color: #e5e5e5; /* Set your desired background color */
+    margin-top: 20px; /* Adjust the margin as needed */
+}

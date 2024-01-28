@@ -20,16 +20,16 @@
 }
 #chicken-section {
     height: 1000px; /* Set the desired height */
-    background-color: brown; /* Set your desired background color */
+    background-color: #ff6a00; /* Set your desired background color */
     margin-top: 20px; /* Adjust the margin as needed */
 }
 #sushi-section {
     height: 1000px; /* Set the desired height */
-    background-color: #e5e5e5; /* Set your desired background color */
+    background-color: #808080; /* Set your desired background color */
     margin-top: 20px; /* Adjust the margin as needed */
 }
 #beef-section {
     height: 1000px; /* Set the desired height */
-    background-color: green; /* Set your desired background color */
+    background-color: #ff00dc; /* Set your desired background color */
     margin-top: 20px; /* Adjust the margin as needed */
 }
